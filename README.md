@@ -1,2 +1,2 @@
 # Santosh
-learninggithubwithdeveops
+learning-github-with-deveops
